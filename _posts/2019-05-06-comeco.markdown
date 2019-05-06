@@ -2,8 +2,8 @@
 title:  "Começando do início!"
 subtitle: "O que é felicidade e o porquê de escrever um blog sobre isso"
 author: "Fernanda da Mata"
-avatar: "img/authors/comecando-do-inicio.jpg"
-image: "img/fernanda.JPG"
+avatar: "img/authors/fernanda.JPG"
+image: "img/comecando-do-inicio.jpg"
 date:   2019-05-06 20:37:00
 ---
 

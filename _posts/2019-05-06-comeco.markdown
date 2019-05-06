@@ -7,7 +7,7 @@ image: "img/comecando-do-inicio.jpg"
 date:   2019-05-06 20:37:00
 ---
 
-### Começando do início:
+### Bem vindo!
 
 o que é felicidade e o porquê de criar um blog sobre isso?
 

@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
+title: Diário da felicidade
+description: O diário de um período sabático indeterminado
+keywords: Felicidade, Blogging, Caminhada, Cozinha, Vida, Yoga
+author: Fernanda da Mata
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site

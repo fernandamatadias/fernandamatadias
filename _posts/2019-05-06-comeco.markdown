@@ -11,6 +11,8 @@ date:   2019-05-06 20:37:00
 
 Tantas vezes refletida, sonhada, sentida, e, em alguns momentos, difícil de ser alcançada, a felicidade é, para você e para mim, o que se busca afinal. 
 
+![comeco]({{ site.baseurl }}/images/comeco/goal.svg "")
+
 Estudos realizados por neurocientistas e endocrinologistas indicam que a felicidade é uma questão biológica, e que somos felizes ou não a depender da emissão pelo nosso cérebro de quatro hormônios: endorfina, serotonina, dopamina e oxitocina. 
 
 Muito interessante, não é?!
@@ -23,7 +25,7 @@ O.K, a felicidade é fomentada pela liberação de determinadas substâncias qu�
 
 Hábitos e práticas de pessoas felizes podem ser enumerados aos montes, ainda assim, não existe receita de bolo para a felicidade. Se assim o fosse, seria incrível. Já pensou? 
 
-Infelizmente não é tão fácil desse jeito. Como diz Guimarães Rosa “felicidade se acha é em horinhas de descuido”. E todo mundo, embora não saiba definir ao certo o que é felicidade (conceito dificílimo!), sente o que, quando, ou como, a felicidade invade a sua porta. É gostoso demais!
+Infelizmente não é tão fácil desse jeito. Como diz Guimarães Rosa _“felicidade se acha é em horinhas de descuido”_. E todo mundo, embora não saiba definir ao certo o que é felicidade (conceito dificílimo!), sente o que, quando, ou como, a felicidade invade a sua porta. É gostoso demais!
 
 Para mim, a felicidade é um sei-lá-o-que que eleva a vida, trazendo cor, sabor, textura e sentido.
 

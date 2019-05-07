@@ -11,7 +11,7 @@ date:   2019-05-06 20:37:00
 
 Tantas vezes refletida, sonhada, sentida, e, em alguns momentos, difícil de ser alcançada, a felicidade é, para você e para mim, o que se busca afinal. 
 
-![comeco]({{ site.baseurl }}/images/comeco/goal.svg "")
+![comeco](/img/comeco/goal.svg)
 
 Estudos realizados por neurocientistas e endocrinologistas indicam que a felicidade é uma questão biológica, e que somos felizes ou não a depender da emissão pelo nosso cérebro de quatro hormônios: endorfina, serotonina, dopamina e oxitocina. 
 

@@ -1,137 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Modern Blog</title>
-        <description>Modern-Blog A Elegant template for Jekyll</description>
+        <title>Diário da felicidade</title>
+        <description>As crônicas de um período sabático indeterminado</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Thu, 02 May 2019 14:14:53 -0300</pubDate>
-        <lastBuildDate>Thu, 02 May 2019 14:14:53 -0300</lastBuildDate>
+        <pubDate>Wed, 08 May 2019 14:56:19 -0300</pubDate>
+        <lastBuildDate>Wed, 08 May 2019 14:56:19 -0300</lastBuildDate>
         <generator>Jekyll v3.8.5</generator>
         
         <item>
-            <title>A Craftsman Workshop</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
+            <title>Começando do início!</title>
+            <description>&lt;h3 id=&quot;bem-vindo&quot;&gt;Bem vindo!&lt;/h3&gt;
 
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
+&lt;p&gt;Tantas vezes refletida, sonhada, sentida, e, em alguns momentos, difícil de ser alcançada, a felicidade é, para você e para mim, o que se busca afinal.&lt;/p&gt;
 
-&lt;p&gt;Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.&lt;/p&gt;
+&lt;p&gt;Estudos realizados por neurocientistas e endocrinologistas indicam que a felicidade é uma questão biológica, e que somos felizes ou não a depender da emissão pelo nosso cérebro de quatro hormônios: endorfina, serotonina, dopamina e oxitocina.&lt;/p&gt;
 
-&lt;p&gt;Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.&lt;/p&gt;
+&lt;p&gt;Muito interessante, não é?!&lt;/p&gt;
 
-&lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
+&lt;p&gt;Imagino que artistas, poetas, músicos, e grandes pensadores, que se dedicaram ao tema ao longo de toda a história da humanidade, ficariam perplexos com a simplicidade da coisa.&lt;/p&gt;
+
+&lt;p&gt;E cogito dizer, sem desrespeito a comunidade científica, que a questão está longe de ser tão simples assim.&lt;/p&gt;
+
+&lt;p&gt;O.K, a felicidade é fomentada pela liberação de determinadas substâncias químicas que estimulam a sensação de bem-estar no cérebro. Entendemos essa parte. O problema é: como promover isso?&lt;/p&gt;
+
+&lt;p&gt;Hábitos e práticas de pessoas felizes podem ser enumerados aos montes, ainda assim, não existe receita de bolo para a felicidade. Se assim o fosse, seria incrível. Já pensou?&lt;/p&gt;
+
+&lt;p&gt;Infelizmente não é tão fácil desse jeito. Como diz Guimarães Rosa &lt;em&gt;“felicidade se acha é em horinhas de descuido”&lt;/em&gt;. E todo mundo, embora não saiba definir ao certo o que é felicidade (conceito dificílimo!), sente o que, quando, ou como, a felicidade invade a sua porta. É gostoso demais!&lt;/p&gt;
+
+&lt;p&gt;Para mim, a felicidade é um sei-lá-o-que que eleva a vida, trazendo cor, sabor, textura e sentido.&lt;/p&gt;
+
+&lt;p&gt;Como um azeite no pão, uma pitada de sal que falta no prato, e umas gotinhas de limão. É como dançar por dentro, e, quando acabar a música, sentir tudo ficar em silêncio e paz. É não pensar demais. Deixar a vida vir e ir junto com ela.&lt;/p&gt;
+
+&lt;h3 id=&quot;e-para-você-o-que-é-felicidade-qual-foi-a-última-vez-que-você-se-sentiu-plenamente-feliz-quero-saber&quot;&gt;E para você, o que é felicidade? Qual foi a última vez que você se sentiu plenamente feliz? Quero saber!&lt;/h3&gt;
+
+&lt;p&gt;Tenho muitas lembranças de momentos felizes, de alegria, e paz. A criação desse blog/diário, porém, surge em um momento da minha vida que eu poderia chamar de “não muito feliz”. Uma fase de fragilidades emocionais, por assim dizer.&lt;/p&gt;
+
+&lt;p&gt;O objetivo do blog  não é falar de “coisa ruim”, nem de medo, ansiedade e tristeza, mas o assunto poderá ser abordado eventualmente, pois a missão aqui - além de servir de desabafo para mim  - é de criar uma rede de apoio entre pessoas que sejam sensíveis ao tema, com o compartilhamento de experiências, de amor, paz e generosidade.&lt;/p&gt;
+
+&lt;p&gt;Por aqui, não reinarão verdades absolutas! Apenas algumas bobas reflexões sobre a vida, receitinhas, momentos alegres, amor ao meio ambiente, ao próximo, a busca do autoconhecimento, e o que mais der na telha. 
+Vem comigo?&lt;/p&gt;
 </description>
-            <pubDate>Sat, 25 Apr 2015 09:12:12 -0300</pubDate>
-            <link>http://localhost:4000#/2015/04/25/workshop.html</link>
-            <guid isPermaLink="true">http://localhost:4000#/2015/04/25/workshop.html</guid>
-            
-            
-        </item>
-        
-        <item>
-            <title>I scream</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.&lt;/p&gt;
-
-&lt;p&gt;Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.&lt;/p&gt;
-
-&lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
-</description>
-            <pubDate>Fri, 24 Apr 2015 09:12:12 -0300</pubDate>
-            <link>http://localhost:4000#/2015/04/24/i-scream.html</link>
-            <guid isPermaLink="true">http://localhost:4000#/2015/04/24/i-scream.html</guid>
-            
-            
-        </item>
-        
-        <item>
-            <title>Absense of light</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.&lt;/p&gt;
-
-&lt;p&gt;Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.&lt;/p&gt;
-
-&lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
-</description>
-            <pubDate>Thu, 23 Apr 2015 09:12:12 -0300</pubDate>
-            <link>http://localhost:4000#/2015/04/23/night-sky.html</link>
-            <guid isPermaLink="true">http://localhost:4000#/2015/04/23/night-sky.html</guid>
-            
-            
-        </item>
-        
-        <item>
-            <title>Watches</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.&lt;/p&gt;
-
-&lt;p&gt;Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.&lt;/p&gt;
-
-&lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
-</description>
-            <pubDate>Wed, 22 Apr 2015 09:12:12 -0300</pubDate>
-            <link>http://localhost:4000#/2015/04/22/what-time.html</link>
-            <guid isPermaLink="true">http://localhost:4000#/2015/04/22/what-time.html</guid>
-            
-            
-        </item>
-        
-        <item>
-            <title>Nobody else was around.</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.&lt;/p&gt;
-
-&lt;p&gt;Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.&lt;/p&gt;
-
-&lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
-</description>
-            <pubDate>Tue, 21 Apr 2015 09:12:12 -0300</pubDate>
-            <link>http://localhost:4000#/2015/04/21/city-nights.html</link>
-            <guid isPermaLink="true">http://localhost:4000#/2015/04/21/city-nights.html</guid>
-            
-            
-        </item>
-        
-        <item>
-            <title>Planes are cool!</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.&lt;/p&gt;
-
-&lt;p&gt;Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.&lt;/p&gt;
-
-&lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
-</description>
-            <pubDate>Mon, 20 Apr 2015 09:12:12 -0300</pubDate>
-            <link>http://localhost:4000#/2015/04/20/planes.html</link>
-            <guid isPermaLink="true">http://localhost:4000#/2015/04/20/planes.html</guid>
+            <pubDate>Mon, 06 May 2019 17:37:00 -0300</pubDate>
+            <link>http://localhost:4000#/2019/05/06/comeco.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2019/05/06/comeco.html</guid>
             
             
         </item>

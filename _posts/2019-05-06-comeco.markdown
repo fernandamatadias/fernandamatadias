@@ -5,6 +5,7 @@ author: "Fernanda da Mata"
 avatar: "img/authors/fernanda.JPG"
 image: "img/comecando-do-inicio.jpg"
 date:   2019-05-06 20:37:00
+comments: true
 ---
 
 ### Bem vindo!

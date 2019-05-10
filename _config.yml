@@ -5,3 +5,5 @@ keywords: Felicidade, Blogging, Caminhada, Cozinha, Vida, Yoga
 author: Fernanda da Mata
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+talkyard_server_url: https://comments-for-fernandamatadias-github-io.talkyard.net
+talkyard_script_url: https://c1.ty-cdn.net/-/talkyard-comments.min.js

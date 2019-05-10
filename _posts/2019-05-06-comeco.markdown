@@ -6,6 +6,7 @@ avatar: "img/authors/fernanda.JPG"
 image: "img/comecando-do-inicio.jpg"
 date:   2019-05-06 20:37:00
 comments: true
+discussion_id: 2019-03-welcome
 ---
 
 ### Bem vindo!

@@ -6,8 +6,8 @@
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Wed, 08 May 2019 15:01:00 -0300</pubDate>
-        <lastBuildDate>Wed, 08 May 2019 15:01:00 -0300</lastBuildDate>
+        <pubDate>Fri, 10 May 2019 19:32:03 -0300</pubDate>
+        <lastBuildDate>Fri, 10 May 2019 19:32:03 -0300</lastBuildDate>
         <generator>Jekyll v3.8.5</generator>
         
         <item>
@@ -46,8 +46,32 @@ Vem comigo?&lt;/p&gt;
             <pubDate>Mon, 06 May 2019 17:37:00 -0300</pubDate>
             <link>http://localhost:4000#/2019/05/06/comeco.html</link>
             <guid isPermaLink="true">http://localhost:4000#/2019/05/06/comeco.html</guid>
+            TEST001
+
+
+<script>talkyardServerUrl='https://comments-for-fernandamatadias-github-io.talkyard.net';</script>
+<script async defer src="https://c1.ty-cdn.net/-/talkyard-comments.min.js"></script>
+<!-- You can specify a per page discussion id on the next line, if your URLs might change. -->
+<div class="talkyard-comments" data-discussion-id="" style="margin-top: 45px;">
+<noscript>Please enable Javascript to view comments.</noscript>
+<p style="margin-top: 25px; opacity: 0.9; font-size: 96%">Comments powered by
+<a href="https://www.talkyard.io">Talkyard</a>.</p>
+</div>
+
             
             
+            TEST001
+
+
+<script>talkyardServerUrl='https://comments-for-fernandamatadias-github-io.talkyard.net';</script>
+<script async defer src="https://c1.ty-cdn.net/-/talkyard-comments.min.js"></script>
+<!-- You can specify a per page discussion id on the next line, if your URLs might change. -->
+<div class="talkyard-comments" data-discussion-id="" style="margin-top: 45px;">
+<noscript>Please enable Javascript to view comments.</noscript>
+<p style="margin-top: 25px; opacity: 0.9; font-size: 96%">Comments powered by
+<a href="https://www.talkyard.io">Talkyard</a>.</p>
+</div>
+
         </item>
         
     </channel>
